@@ -1,0 +1,10 @@
+id_venta,fecha,nombre,pais,correo,producto,categoria,cantidad,precio,total_venta
+1001,2026-01-10,Juan Perez,COLOMBIA,juan@gmail.com,Scooter X,MOVILIDAD,2.0,1200.0,2400.0
+1002,2026-01-11,Maria Gomez,COLOMBIA,maria@gmail.com,SCOOTER PRO,MOVILIDAD,1.0,850.0,850.0
+1003,2026-01-11,Carlos Ruiz,COLOMBIA,no_email,Casco urbano,SEGURIDAD,3.0,400.0,1200.0
+1004,2026-01-12,Ana Torres,PERU,ana@gmail.com,Scooter X,MOVILIDAD,1.0,1200.0,1200.0
+1005,2026-01-12,Pedro Lopez,PERU,pedro@gmail.com,Guantes Rider,SEGURIDAD,2.0,700.0,1400.0
+1006,2026-01-13,Maria Gomez,COLOMBIA,maria@gmail.com,Bateria Plus,ACCESORIOS,1.0,1500.0,1500.0
+1008,2026-01-14,Sofia Martinez,ECUADOR,no_email,Casco urbano,SEGURIDAD,5.0,400.0,2000.0
+1009,2026-01-14,Andres Gil,COLOMBIA,andres@gmail.com,Luces LED,ACCESORIOS,2.0,0.0,0.0
+1010,2026-01-15,Luisa Fernanda,CHILE,luisa@gmail.com,Guantes Rider,SEGURIDAD,1.0,700.0,700.0

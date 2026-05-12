@@ -1,1 +1,1 @@
-# sales_etl_project-2
+# sales-etl-project
